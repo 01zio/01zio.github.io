@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/01zio/01zio.github.io/edit
 
 ##
 I am a boy form 240, and I think there are many people I will know in the future.
-By the way I want to say I miss my family and my girlfriend vary much. I will fight for my family, I'll learn a lot of things for myself.
+By the way I want to say I miss my family and my girlfriend very much. I will fight for my family, I'll learn a lot of things for myself.
 We will have a bright future.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
